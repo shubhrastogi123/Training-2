@@ -1,5 +1,7 @@
 body{
-    background-color: yellow;
+    background-image: url("images/download.jpeg");
+    background-size: 100%;
+    filter: brightness(50%);
 }
 p{
     font-style: italic;
